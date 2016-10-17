@@ -1,7 +1,7 @@
 {
-  "name": "passport-local",
-  "version": "1.0.0",
-  "description": "Local username and password authentication strategy for Passport.",
+  "name": "passport-session",
+  "version": "1.0.2",
+  "description": "Local username and password with sessionId authentication strategy for Passport.",
   "keywords": [
     "passport",
     "local",
@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-local.git"
+    "url": "git://github.com/jaredhanson/passport-session.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-local/issues"
+    "url": "http://github.com/jaredhanson/passport-session/issues"
   },
   "license": "MIT",
   "licenses": [
